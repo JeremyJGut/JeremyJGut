@@ -6,7 +6,13 @@ Currently a Bachelor's degree student @ **Universitat de Barcelona** 🏛️<br>
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremias-gut/) 
+<p align="left">
+<a href="https://www.linkedin.com/in/jeremias-gut/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a> 
+<img src="https://komarev.com/ghpvc/?username=JeremyJGut&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
+</p>
+
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">
@@ -30,8 +36,28 @@ Currently a Bachelor's degree student @ **Universitat de Barcelona** 🏛️<br>
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=JeremyJGut&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyJGut&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeremyJGut&theme=ambient_gradient&hide_border=false" alt="Streak Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyJGut&theme=ambient_gradient&hide_border=false&layout=compact" alt="Top Languages" />
+</p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy-liard-delta.vercel.app/?username=JeremyJGut&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=JeremyJGut&theme=radical&no-bg=true&margin-w=4" alt="Trophies" />
+</p>
+
+## 🐍 My Contribution Snake:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JeremyJGut/JeremyJGut/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+## 💬 Quote of the Day:
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+</p>
+
+## ⌨️ Coding Activity:
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JeremyJGut&theme=radical&bg_color=0D1117&hide_border=true" alt="Activity Graph" />
+</p>
