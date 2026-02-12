@@ -1,16 +1,24 @@
-## Hi there 👋
+## About:
 
-<!--
-**JeremyJGut/JeremyJGut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently a Bachelor's degree student Universitat de Barcelona
+Working on Grafics fundamentals, Software Distribution, Software integrated project, Cibersecurity
 
-Here are some ideas to get you started:
+## 🌐 Socials:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremias-gut/)
+
+## Languages and Tools:
+
+<p align="left">
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=android,bash,c,cpp,django,docker,figma,firebase,gcp,go,grafana,java,kafka,kotlin,kubernetes,py,pytorch,redis,sklearn,terraform,tensorflow" />
+</a>
+</p>
+
+## 📊 GitHub Stats:
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JeremyJGut&show_icons=true&theme=radical)
+
+## 🏆 GitHub Trophies:
+
+[![trophies](https://github-profile-trophy.vercel.app/?username=JeremyJGut)](https://github.com/ryo-ma/github-profile-trophy)
