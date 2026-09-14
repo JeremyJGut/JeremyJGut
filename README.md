@@ -49,3 +49,7 @@ Working on Distributed Systems, AI, and Cybersecurity 💻
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 </p>
+## 🐍 Contribution Snake:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JeremyJGut/JeremyJGut/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
