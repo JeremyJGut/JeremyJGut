@@ -40,9 +40,11 @@ Working on Distributed Systems, AI, and Cybersecurity 💻
   <img src="https://github-readme-stats-fast.vercel.app/api?username=JeremyJGut&show_icons=true&theme=ambient_gradient&hide_border=false" alt="GitHub Stats" />
 </p>
 
-## 🏆 GitHub Trophies:
+## 📊 GitHub Highlights:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JeremyJGut&theme=radical&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://img.shields.io/github/followers/JeremyJGut?label=Followers&style=for-the-badge&color=8A2BE2" alt="Followers" />
+  <img src="https://img.shields.io/badge/Status-Actively%20Building-blue?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity%20%26%20Systems-red?style=for-the-badge" alt="Focus" />
 </p>
 
 ## 💬 Quote of the Day:
